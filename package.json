@@ -1,0 +1,7 @@
+{
+  "name": "rediscache-cluster-proxy",
+  "version": "1.0.0",
+  "description": "High-availability caching layer with cache stampede protection, LRU eviction monitoring, distributed locking, and slide-window rate limiters.",
+  "author": "Wajid Raza <wajidrazapk@outlook.com>",
+  "license": "MIT"
+}
