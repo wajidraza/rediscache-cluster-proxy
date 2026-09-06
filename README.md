@@ -5,7 +5,6 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20Microservices-blue.svg?style=flat-square)](#)
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Node.js%2016%20%7C%20TypeScript%20%7C%20Redis%20Cluster%20%7C%20ioredis%20%7C%20Express%20%7C%20Docker%20Compose-gold.svg?style=flat-square)](#)
 [![Release Era](https://img.shields.io/badge/Era-2021%20Engineering-orange.svg?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
 ---
 
@@ -76,6 +75,3 @@ npm test     # or pytest / go test -v ./...
 - **Email**: [wajidrazapk@outlook.com](mailto:wajidrazapk@outlook.com)  
 - **GitHub**: [@wajidraza](https://github.com/wajidraza)  
 
----
-
-*Licensed under the [MIT License](LICENSE).*
